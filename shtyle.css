@@ -1,0 +1,14 @@
+
+form{
+    width: 100%;
+    font-weight: 200;
+    margin: auto;
+    display: flex; 
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    color: rgb(247, 225, 225);
+    background-color: rgb(41, 35, 35);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
